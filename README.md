@@ -7,13 +7,7 @@
 
 Hello! My name is Gabriel Vinicius, I’m 18 years old and currently living in Toledo, Brazil 🇧🇷.  
 I completed high school with a degree in System Development at PREMEN and I am currently pursuing a degree in Internet Systems at UTFPR.
-I work at **GermanTech Sistemas** as a trainee in IT Support. My main activities include:
-
-- Computer maintenance and assembly  
-- Configuration of third-party and government systems  
-- Implementation of internal systems  
-- Linux server configuration  
-- Quotation of work equipment (monitors, computer parts, etc.)
+I work at **GermanTech Sistemas** as a trainee in IT Support.
 
 I’m passionate about technology, backend logic, and building efficient solutions.
 
