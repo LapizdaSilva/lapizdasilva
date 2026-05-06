@@ -29,4 +29,4 @@ I’m passionate about technology, backend logic, and building efficient solutio
 ## Contacts
 
 - Email: gabriel.v.santos23@gmail.com
-- LinkedIn: https://www.linkedin.com/in/gabriel-vinicius-9938b9365/
+- LinkedIn: <a href="https://www.linkedin.com/in/gabriel-vinicius-9938b9365/"> Gabriel Vinicius </a>
