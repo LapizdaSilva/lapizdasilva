@@ -1,32 +1,32 @@
 <h1 align="center">Hi, I'm Gabriel Vinicius</h1>
-<h3 align="center">Fullstack Developer from Brazil</h3>
+<h3 align="center">Junior Software Developer | TypeScript, Node.js & React | Backend & Full-Stack Development</h3>
 
 <div align=center>
   <img src="https://skillicons.dev/icons?i=python">
   <img src="https://skillicons.dev/icons?i=javascript">
   <img src="https://skillicons.dev/icons?i=typescript">
-  <img src="https://skillicons.dev/icons?i=cs">
-  <img src="https://skillicons.dev/icons?i=html">
-  <img src="https://skillicons.dev/icons?i=css">
   <img src="https://skillicons.dev/icons?i=react">
-  <img src="https://skillicons.dev/icons?i=postgres">
   <img src="https://skillicons.dev/icons?i=supabase">
-  <img src="https://skillicons.dev/icons?i=firebase">
 </div>
 
 ---
 
 <div align=center> <h2>About Me </h2> </div>
 
-Hello! My name is Gabriel Vinicius, I’m 18 years old and currently living in Toledo, Brazil 🇧🇷.  
-I completed high school with a degree in System Development at PREMEN and I am currently pursuing a degree in Internet Systems at UTFPR.
-I work at **GermanTech Sistemas** as a Technical Support Analyst.
+Hello! I'm a junior developer in formation based in Toledo, Brazil 🇧🇷. My academic foundation includes a degree in System Development (PREMEN) and ongoing studies in Internet Systems at UTFPR.
 
-I’m passionate about technology, backend logic, and building efficient solutions.
+**What I Do**
+I specialize in building efficient solutions using **TypeScript, Node.js, React, and databases**. I am deeply passionate about backend logic and clean code architecture.
+
+**My Edge**
+What differentiates me is my real-world support and infrastructure experience. Working as a Technical Support Analyst at **GermanTech Sistemas** has given me a practical understanding of how applications behave in production, allowing me to approach development with a troubleshooting mindset.
+
+**Looking Forward**
+I am actively looking for **backend and full-stack development opportunities** where I can leverage my blend of coding skills and operational insight to deliver real value to a team.
 
 ---
 
 ## Contacts
 
-- Email: gabriel.v.santos23@gmail.com
-- LinkedIn: <a href="https://www.linkedin.com/in/gabriel-vinicius-9938b9365/"> Gabriel Vinicius </a>
+* **Email:** gabriel.v.santos23@gmail.com
+* **LinkedIn:** <a href="https://www.linkedin.com/in/gabrielvindev/"> Gabriel Vinicius </a>
