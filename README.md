@@ -15,13 +15,13 @@
 
 Hello! I'm a junior developer in formation based in Toledo, Brazil 🇧🇷. My academic foundation includes a degree in System Development (PREMEN) and ongoing studies in Internet Systems at UTFPR.
 
-**What I Do** <h>
+**What I Do**<br>
 I specialize in building efficient solutions using **TypeScript, Node.js, React, and databases**. I am deeply passionate about backend logic and clean code architecture.
 
-**My Edge**<h>
+**My Edge**<br>
 What differentiates me is my real-world support and infrastructure experience. Working as a Technical Support Analyst at **GermanTech Sistemas** has given me a practical understanding of how applications behave in production, allowing me to approach development with a troubleshooting mindset.
 
-**Looking Forward** <h>
+**Looking Forward**<br>
 I am actively looking for **backend and full-stack development opportunities** where I can leverage my blend of coding skills and operational insight to deliver real value to a team.
 
 ---
