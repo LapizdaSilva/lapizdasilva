@@ -27,21 +27,13 @@ A responsive e-commerce storefront prototype focused on product presentation, ac
 
 ## Technologies
 
-**Languages**
+**Primary**
 
-TypeScript · JavaScript · Python · SQL · Bash
+TypeScript · Node.js · PostgreSQL · React
 
-**Frontend**
+**Also used**
 
-React · React Native · Expo · HTML · CSS
-
-**Backend & Data**
-
-Node.js · Supabase · PostgreSQL
-
-**Infrastructure**
-
-Linux · Samba · Git · GitHub · Bash scripting
+React Native · Supabase · Python · Bash · Linux
 
 ## Contact
 
