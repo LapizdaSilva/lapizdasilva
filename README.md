@@ -1,32 +1,49 @@
-<h1 align="center">Hi, I'm Gabriel Vinicius</h1>
-<h3 align="center">Junior Software Developer | TypeScript, Node.js & React | Backend & Full-Stack Development</h3>
+# Hi, I'm Gabriel Vinicius 👋
 
-<div align=center>
-  <img src="https://skillicons.dev/icons?i=python">
-  <img src="https://skillicons.dev/icons?i=javascript">
-  <img src="https://skillicons.dev/icons?i=typescript">
-  <img src="https://skillicons.dev/icons?i=react">
-  <img src="https://skillicons.dev/icons?i=supabase">
-</div>
+### Junior Software Developer | TypeScript · Node.js · React
 
----
+I'm a software developer in training focused on building backend and full-stack applications with **TypeScript, Node.js, React and relational databases**.
 
-<div align=center> <h2>About Me </h2> </div>
+I currently work in technical support and infrastructure, where I gain practical experience troubleshooting systems, working with real production environments, automation and solving operational problems.
 
-Hello! I'm a junior developer in formation based in Toledo, Brazil 🇧🇷. My academic foundation includes a degree in System Development (PREMEN) and ongoing studies in Internet Systems at UTFPR.
+I'm currently pursuing a degree in **Internet Systems** and building projects focused on application architecture, authentication, databases and user-facing products.
 
-**What I Do**<br>
-I specialize in building efficient solutions using **TypeScript, Node.js, React, and databases**. I am deeply passionate about backend logic and clean code architecture.
+## Featured Projects
 
-**My Edge**<br>
-What differentiates me is my real-world support and infrastructure experience. Working as a Technical Support Analyst at **GermanTech Sistemas** has given me a practical understanding of how applications behave in production, allowing me to approach development with a troubleshooting mindset.
+### [Lumina]
+A React Native platform developed as an academic startup project, featuring authentication, role-based access, scheduling, patient management, chat and video communication.
 
-**Looking Forward**<br>
-I am actively looking for **backend and full-stack development opportunities** where I can leverage my blend of coding skills and operational insight to deliver real value to a team.
+**TypeScript · React Native · Expo · Supabase**
 
----
+### [ExpenseTracker]
+A mobile personal finance application with authentication, transaction management, reminders, notifications and persistent data.
 
-## Contacts
+**React Native · Expo · Supabase · PostgreSQL**
 
-* **Email:** gabriel.v.santos23@gmail.com
-* **LinkedIn:** <a href="https://www.linkedin.com/in/gabrielvindev/"> Gabriel Vinicius </a>
+### [Nocturne Atelier]
+A responsive e-commerce storefront prototype focused on product presentation, accessibility, responsive design and customer interactions.
+
+**HTML · CSS · JavaScript**
+
+## Technologies
+
+**Languages**
+
+TypeScript · JavaScript · Python · SQL · Bash
+
+**Frontend**
+
+React · React Native · Expo · HTML · CSS
+
+**Backend & Data**
+
+Node.js · Supabase · PostgreSQL
+
+**Infrastructure**
+
+Linux · Samba · Git · GitHub · Bash scripting
+
+## Contact
+
+- LinkedIn: [Gabriel Vinicius]
+- Email: gabriel.v.santos23@gmail.com
