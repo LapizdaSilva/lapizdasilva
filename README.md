@@ -1,4 +1,4 @@
-# Hi, I'm Gabriel Vinicius 👋
+# Hi, I'm Gabriel Vinicius 
 
 ### Junior Software Developer | TypeScript · Node.js · React
 
@@ -37,5 +37,5 @@ React Native · Supabase · Python · Bash · Linux
 
 ## Contact
 
-- LinkedIn: [Gabriel Vinicius]
+- LinkedIn: <a href="https://www.linkedin.com/in/gabrielvindev/"> Gabriel Vinicius </a>
 - Email: gabriel.v.santos23@gmail.com
